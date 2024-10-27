@@ -30,4 +30,5 @@ Herramienta de **asistencia** en **juegos** (Macros).
   - En el servidor de **Z**en**X** ( **https://discord.gg/zCQ8jQ2GBf** o **https://dsc.gg/zenxcorpp** )
 
 - Video de presentación: 
-- **[ i ]**: Recuerda que **NO SOMOS RESPONSABLES DE ALGÚN POSIBLE BANEO**. Usarlo con precaución.
+- **[ i ]**: Recuerda que **NO SOMOS RESPONSABLES DE ALGÚN POSIBLE BANEO**.
+- **[ i ]**: **Usarlo con precaución.**
