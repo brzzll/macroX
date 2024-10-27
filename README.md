@@ -7,6 +7,7 @@ Herramienta de **asistencia** en **juegos** (Macros).
 
 - **Configuración personalizable** (MS, CPS, KEYBIND, ETC)
 - **Tool multilenguaje**
+
 - Cuenta con:
   - **Autoclicker**
   - **Doble Click**
@@ -21,9 +22,12 @@ Herramienta de **asistencia** en **juegos** (Macros).
   - **[ Paso 1 ]**: Descargar **macroX** en la parte de [lanzamientos](https://github.com/brzzll/macroX/releases/tag/Download) del mismo repositorio.
   - **[ Paso 2 ]**: Abrir el archivo **macroX.exe**, **dirigirse** a la sección del **mouse**, **activar** el **switch** de cualquier macro, colocar lo **requerido** en los **cuadros blancos** y **presionar** el **botón** para iniciar la macro.
   - **[ Paso 3 ]**: **Disfrutar de la aplicación!**
+
 - Requerimientos:
   - NET Framework 4.7.2
+
 - Dónde puedo conseguir **ayuda** ?
   - En el servidor de **Z**en**X** ( **https://discord.gg/zCQ8jQ2GBf** o **https://dsc.gg/zenxcorpp** )
+
 - Video de presentación: 
 - **[ i ]**: Recuerda que **NO SOMOS RESPONSABLES DE ALGÚN POSIBLE BANEO**. Usarlo con precaución.
