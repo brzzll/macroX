@@ -4,6 +4,7 @@
 
 # MacroX
 Herramienta de **asistencia** en **juegos** (Macros).
+
 - **Configuración personalizable** (MS, CPS, KEYBIND, ETC)
 - **Tool multilenguaje**
 - Cuenta con:
