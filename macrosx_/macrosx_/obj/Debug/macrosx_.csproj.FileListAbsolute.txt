@@ -1,0 +1,12 @@
+C:\Users\Alessandro\Desktop\macrosx_\macrosx_\obj\Debug\macrosx_.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Desktop\macrosx_\macrosx_\obj\Debug\macrosx_.Form1.resources
+C:\Users\Alessandro\Desktop\macrosx_\macrosx_\obj\Debug\macrosx_.Properties.Resources.resources
+C:\Users\Alessandro\Desktop\macrosx_\macrosx_\obj\Debug\macrosx_.csproj.GenerateResource.cache
+C:\Users\Alessandro\Desktop\macrosx_\macrosx_\obj\Debug\macrosx_.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\macrosx_\macrosx_\bin\Debug\macrosx_.exe.config
+C:\Users\Alessandro\Desktop\macrosx_\macrosx_\bin\Debug\macrosx_.exe
+C:\Users\Alessandro\Desktop\macrosx_\macrosx_\bin\Debug\macrosx_.pdb
+C:\Users\Alessandro\Desktop\macrosx_\macrosx_\bin\Debug\Guna.UI2.dll
+C:\Users\Alessandro\Desktop\macrosx_\macrosx_\obj\Debug\macrosx_.csproj.Up2Date
+C:\Users\Alessandro\Desktop\macrosx_\macrosx_\obj\Debug\macrosx_.exe
+C:\Users\Alessandro\Desktop\macrosx_\macrosx_\obj\Debug\macrosx_.pdb
