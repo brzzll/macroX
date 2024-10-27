@@ -5,3 +5,8 @@
 # MacroX
 Herramienta de **asistencia** en **juegos** (Macros).
 
+- Requerimientos:
+  - NET Framework 4.7.2
+- Dónde puedo conseguir **ayuda** ?
+  - En el servidor de **Z**en**X** ( **https://discord.gg/zCQ8jQ2GBf** o **https://dsc.gg/zenxcorpp** )
+- Video de presentación: 
