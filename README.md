@@ -4,15 +4,15 @@
 
 # MacroX
 Herramienta de **asistencia** en **juegos** (Macros).
-- Configuración personalizable (MS, CPS, KEYBIND, ETC)
-- Tool multilenguaje
+- **Configuración personalizable** (MS, CPS, KEYBIND, ETC)
+- **Tool multilenguaje**
 - Cuenta con:
-  - Autoclicker
-  - Doble Click
-  - Hold-Autoclicker
-  - S-Tap
+  - **Autoclicker**
+  - **Doble Click**
+  - **Hold-Autoclicker**
+  - **S-Tap**
 
-<div align="center">
+<div>
   <img  src="https://i.ibb.co/kMBwT17/Screenshot-2024-10-26-184242.png">
 </div>
 
