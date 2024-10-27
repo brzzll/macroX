@@ -16,6 +16,7 @@ Herramienta de **asistencia** en **juegos** (Macros).
   <img  src="https://i.ibb.co/kMBwT17/Screenshot-2024-10-26-184242.png">
 </div>
 
+
 - Cómo usar **MacroX** ?
   - **[ Paso 1 ]**: Descargar **macroX** en la parte de [lanzamientos](https://github.com/brzzll/macroX/releases/tag/Download) del mismo repositorio.
   - **[ Paso 2 ]**: Abrir el archivo **macroX.exe**, **dirigirse** a la sección del **mouse**, **activar** el **switch** de cualquier macro, colocar lo **requerido** en los **cuadros blancos** y **presionar** el **botón** para iniciar la macro.
