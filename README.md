@@ -29,6 +29,6 @@ Herramienta de **asistencia** en **juegos** (Macros).
 - Dónde puedo conseguir **ayuda** ?
   - En el servidor de **Z**en**X** ( **https://discord.gg/zCQ8jQ2GBf** o **https://dsc.gg/zenxcorpp** )
 
-- Video de presentación: 
+- Video de presentación: https://www.youtube.com/watch?v=ORhApNftIYQ
 - **[ i ]**: Recuerda que **NO SOMOS RESPONSABLES DE ALGÚN POSIBLE BANEO**.
 - **[ i ]**: **Usarlo con precaución.**
